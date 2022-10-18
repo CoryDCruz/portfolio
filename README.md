@@ -5,6 +5,7 @@ Personal portfolio
 # Technologies used
 - HTML5
 - CSS
+- Javascript
 - Bootstrap
 - Fontawesome
 

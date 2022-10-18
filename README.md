@@ -1,8 +1,8 @@
-# portfolio
+# Portfolio
 
 Personal portfolio
 
-# technologies used
+# Technologies used
 - HTML5
 - CSS
 - Bootstrap

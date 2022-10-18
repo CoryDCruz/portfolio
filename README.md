@@ -7,3 +7,6 @@ Personal portfolio
 - CSS
 - Bootstrap
 - Fontawesome
+
+# Deployment 
+https://corydcruz.github.io/portfolio/
